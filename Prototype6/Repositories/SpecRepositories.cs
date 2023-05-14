@@ -2,8 +2,6 @@
 using Microsoft.Extensions.Configuration;
 using MySqlConnector;
 using Prototype6.Models;
-using System.Collections.Generic;
-using System.Threading.Tasks;
 
 public class SpecRepository : ISpecRepository
 {
